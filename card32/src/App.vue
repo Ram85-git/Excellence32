@@ -1,14 +1,21 @@
 <template>
-  <HelloWorld/>
+<AddProducts/>
+<div id="app">
+  <Products/>
+</div>
+
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
-
-export default {
+import AddProducts from './components/AddProducts.vue';
+import Products from './components/Products.vue';
+export default{
   name: 'App',
   components: {
-    HelloWorld
+    Products,
+    AddProducts
+
+   
   }
 }
 </script>
