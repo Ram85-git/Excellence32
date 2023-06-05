@@ -26,12 +26,13 @@
     },
     methods:{
         ...mapActions(["addProduct"]),
+
         onSubmit(){
 
             this.addProduct({
-                title:this.title,
-                price:this.price
-            })
+                title: this.title,
+                price: this.price
+            });
         }
     }
    

@@ -1,16 +1,24 @@
 {
-    "products": [
-        {
-           "id" :1,
-            "title": "product 1",
-            "price":"200"
-        },
-        {
-            "id":2,
-            "title": "product 2",
-            "price":"300"
-        }
-      ]
-
-
+  "products": [
+    {
+      "id": 1,
+      "title": "product 1",
+      "price": "200"
+    },
+    {
+      "id": 2,
+      "title": "product 2",
+      "price": "300"
+    },
+    {
+      "title": "asdfghj",
+      "price": "123456",
+      "id": 3
+    },
+    {
+      "title": "abcd",
+      "price": "7777",
+      "id": 4
+    }
+  ]
 }
