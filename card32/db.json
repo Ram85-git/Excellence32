@@ -19,6 +19,36 @@
       "title": "abcd",
       "price": "7777",
       "id": 4
+    },
+    {
+      "title": "kkssakdksaj",
+      "price": "33121",
+      "id": 5
+    },
+    {
+      "title": "aqa",
+      "price": "qaq",
+      "id": 6
+    }
+  ],
+  "school": [
+    {
+      "id": 1,
+      "fname": "Ram",
+      "lname": "Bhatt"
+    },
+    {
+      "id": 2,
+      "fname": "Govind",
+      "lname": "Kumar"
+    },
+    {
+      "id": 3
+    },
+    {
+      "fname": "hom",
+      "lname": "last",
+      "id": 4
     }
   ]
 }
